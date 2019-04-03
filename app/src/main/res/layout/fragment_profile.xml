@@ -30,7 +30,8 @@
     <ScrollView
         android:layout_below="@+id/title"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/design_bottom_navigation_height">
 
         <TextView
             android:padding="10dp"
